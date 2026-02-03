@@ -1,8 +1,7 @@
 # Blackjack Game
 
-![Project Screenshot](Blackjack.png)
-
-> **Note:** Replace `Blackjack.png` with the actual path to your screenshot or project image.
+![BlackJack-1.png](BlackJack-1.png)
+![BlackJack-2.png](BlackJack-2.png)
 
 ## Description
 
